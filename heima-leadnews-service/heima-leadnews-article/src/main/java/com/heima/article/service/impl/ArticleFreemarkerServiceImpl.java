@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Service
-@Slf4j
+//@Slf4j
 @Transactional
 public class ArticleFreemarkerServiceImpl implements ArticleFreemarkerService {
 
